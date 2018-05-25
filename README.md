@@ -100,6 +100,10 @@ In order to be useful, Anon needs to be told what you want to do to each column 
 }
 ```
 
+# Contributing
+
+Any contribution will be welcome, please refer to our [contributing guidelines](CONTRIBUTING.md) for more information.
+
 # License
 
 This project is [licensed under the MIT license](LICENSE).
